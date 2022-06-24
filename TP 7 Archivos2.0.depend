@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1655322509 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\proyectos\tp 7 archivos2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Librerias/pila.h"
+
+1648594675 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\proyectos\tp 7 archivos2.0\librerias\pila.c
+	"pila.h"
+
+1490112217 d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\proyectos\tp 7 archivos2.0\librerias\pila.h
+	<stdio.h>
+	<malloc.h>
+
